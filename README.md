@@ -32,6 +32,7 @@
 ## Additional Notes
 * CS:GO must be running before executing "Local Windows Debugger".
 * For [trigger-aim-me](trigger-aim-me) to work properly, disable raw mouse input.
+* [glow-and-flashbang](glow-and-flashbang) can run alongside [trigger-aim-me](trigger-aim-me) and vice versa. To do this, both VS Solutions must run independently while CS:GO is running.
 * Run [hazedumper-master](hazedumper-master) for every CS:GO patches to pull new offsets, it will extract a new *csgo.hpp*. Paste this file inside the directories of the scripts to replace the outdated offsets.
 
 ---
