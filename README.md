@@ -1,11 +1,12 @@
+# Requirement
+* Visual Studio 2019 (as of this writing)
+
 # Script Information
 * [glow-and-flashbang](glow-and-flashbang): Everyone glows through walls and player is unaffected by flashbang.
 * [trigger-aim-me](trigger-aim-me): Aims at enemy heads and automatically shoots whenever the cursor scans an enemy.
 * [hazedumper-master](hazedumper-master): Gets the latest offsets from every patch and updates of the game.
 
-## Requirement
-* Visual Studio 2019 (as of this writing)
-
+---
 ## How To Use
 1. Create a new project in Visual Studio (2019 as of this writing) and select *Empty Project*
 2. Select either [glow-and-flashbang] or [trigger-aim-me] from this repo.
@@ -14,7 +15,6 @@
 5. On the left pane, select *Configuration Properties > Advanced*, change *Character Set* from *Unicode* to *Multi-Byte*
 6. Build the solution and then run "Local Windows Debugger"
 
----
 ## Hotkeys
 ### [glow-and-flashbang](glow-and-flashbang)
 | Hotkey        | Description           |
