@@ -1,7 +1,10 @@
-# Requirement
+# Counter-Strike:Global Offensive 
+![image-logo](https://i.ibb.co/TLB5Hk4/4ce9e1f2403bc1a13118ab2e2dda6d47-1-1-30.jpg)
+
+## Requirement
 * Visual Studio 2019 (as of this writing)
 
-# Script Information
+## Script Information
 * [glow-and-flashbang](glow-and-flashbang): Everyone glows through walls and player is unaffected by flashbang.
 * [trigger-aim-me](trigger-aim-me): Aims at enemy heads and automatically shoots whenever the cursor scans an enemy.
 * [hazedumper-master](hazedumper-master): Gets the latest offsets from every patch and updates of the game.
@@ -19,14 +22,14 @@
 ### [glow-and-flashbang](glow-and-flashbang)
 | Hotkey        | Description           |
 | ------------- | --------------------- |
-| 9             | Toggle glow           |
-| 0             | Toggle anti-flashbang |
+| <kbd>8</kbd>  | Toggle glow           |
+| <kbd>9</kbd>  | Toggle anti-flashbang |
 
 ### [trigger-aim-me](trigger-aim-me)
-| Hotkey        | Description                                 |
-| ------------- | ------------------------------------------- |
-| F2            | Toggle autoshoot when cursor scans an enemy |
-| Left Alt      | Toggle triggerbot                           |
+| Hotkey                | Description                                 |
+| -------------         | ------------------------------------------- |
+| <kbd>F2</kbd>         | Toggle autoshoot when cursor scans an enemy |
+| Left <kbd>Alt</kbd>   | Toggle triggerbot                           |
 
 ---
 ## Additional Notes
