@@ -1,2 +1,4 @@
-# CSGO script
-# Enjoy at your own risk
+# CSGO Script
+## Enjoy at your own risk
+
+[]
