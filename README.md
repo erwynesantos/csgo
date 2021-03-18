@@ -36,5 +36,5 @@
 * Run [hazedumper-master](hazedumper-master) for every CS:GO patches to pull new offsets, it will extract a new *csgo.hpp*. Paste this file inside the directories of the scripts to replace the outdated offsets.
 
 ---
-# Author Notes - 19-March-2021
+# Author Notes 19-March-2021
 Scripts maintained only during leisure hours. I am not responsible if your Steam account gets reported and/or banned. Enjoy at your own risk.
