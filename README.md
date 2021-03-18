@@ -1,4 +1,4 @@
-# Counter-Strike:Global Offensive 
+Counter-Strike:Global Offensive 
 ![image-logo](https://i.ibb.co/TLB5Hk4/4ce9e1f2403bc1a13118ab2e2dda6d47-1-1-30.jpg)
 
 ## Requirement
@@ -22,7 +22,7 @@
 ### [glow-and-flashbang](glow-and-flashbang)
 | Hotkey        | Description           |
 | ------------- | --------------------- |
-| <kbd>8</kbd>  | Toggle glow           |
+| <kbd>0</kbd>  | Toggle glow           |
 | <kbd>9</kbd>  | Toggle anti-flashbang |
 
 ### [trigger-aim-me](trigger-aim-me)
