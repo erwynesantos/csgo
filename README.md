@@ -15,12 +15,6 @@
 6. Build the solution and then run "Local Windows Debugger"
 
 ---
-## Additional Notes
-* CS:GO must be running before executing "Local Windows Debugger".
-* For [trigger-aim-me](trigger-aim-me) to work properly, disable raw mouse input.
-* Run [hazedumper-master](hazedumper-master) for every CS:GO patches to pull new offsets, it will extract a new *csgo.hpp*. Paste this file inside the directories of the scripts to replace the outdated offsets.
-
----
 ## Hotkeys
 ### [glow-and-flashbang](glow-and-flashbang)
 | Hotkey        | Description           |
@@ -33,6 +27,12 @@
 | ------------- | ------------------------------------------- |
 | F2            | Toggle autoshoot when cursor scans an enemy |
 | Left Alt      | Toggle triggerbot                           |
+
+---
+## Additional Notes
+* CS:GO must be running before executing "Local Windows Debugger".
+* For [trigger-aim-me](trigger-aim-me) to work properly, disable raw mouse input.
+* Run [hazedumper-master](hazedumper-master) for every CS:GO patches to pull new offsets, it will extract a new *csgo.hpp*. Paste this file inside the directories of the scripts to replace the outdated offsets.
 
 ---
 # Author Notes
