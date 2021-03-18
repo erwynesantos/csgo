@@ -3,6 +3,9 @@
 * [trigger-aim-me](trigger-aim-me): Aims at enemy heads and automatically shoots whenever the cursor scans an enemy.
 * [hazedumper-master](hazedumper-master): Gets the latest offsets from every patch and updates of the game.
 
+## Requirement
+* Visual Studio 2019 (as of this writing)
+
 ## How To Use
 1. Create a new project in Visual Studio (2019 as of this writing) and select *Empty Project*
 2. Select either [glow-and-flashbang] or [trigger-aim-me] from this repo.
