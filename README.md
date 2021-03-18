@@ -8,7 +8,7 @@
 
 ---
 ## How To Use
-1. Create a new project in Visual Studio (2019 as of this writing) and select *Empty Project*
+1. Create a new project in Visual Studio 2019 (as of this writing) and select *Empty Project*
 2. Select either [glow-and-flashbang] or [trigger-aim-me] from this repo.
 3. In the *Solution Explorer*, add those files by *right-clicking > Add > Add Existing Item*. Repeat untill all the files are added.
 4. Select *Project > Properties*.
@@ -36,5 +36,5 @@
 * Run [hazedumper-master](hazedumper-master) for every CS:GO patches to pull new offsets, it will extract a new *csgo.hpp*. Paste this file inside the directories of the scripts to replace the outdated offsets.
 
 ---
-# Author Notes
+# Author Notes - 19-March-2021
 Scripts maintained only during leisure hours. I am not responsible if your Steam account gets reported and/or banned. Enjoy at your own risk.
