@@ -19,7 +19,7 @@
 
 ## Usage
 1. Run CS:GO
-2. In the previously built solution, run it by hitting ![image](https://i.ibb.co/mBhQQpw/Capture-501.png)
+2. In the previously built solution, run it by hitting ![image](https://i.ibb.co/8cv7L6h/Capture.png "Local Windows Debugger")
 
 ## Hotkeys
 ### [glow-and-flashbang](glow-and-flashbang)
