@@ -15,7 +15,7 @@
 2. Select either [glow-and-flashbang](glow-and-flashbang) or [trigger-aim-me](trigger-aim-me) from this repo.
 3. In the `Solution Explorer`, add those files by `right-clicking` > `Add` > `Add Existing Item`. Repeat untill all the files are added.
 4. Select `Project > Properties`.
-5. On the left pane, select `Configuration Properties` > `Advanced` > change `Character Set` from `Unicode` to `Multi-Byte`
+5. On the left pane, select `Configuration Properties` > `Advanced` > change `Character Set` from `Unicode` to `Multi-Byte`.
 
 ## Usage
 1. Run CS:GO
