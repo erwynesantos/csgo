@@ -1,4 +1,4 @@
-# Counter-Strike:Global Offensive 
+# Counter-Strike: Global Offensive 
 ![image-logo](https://i.ibb.co/TLB5Hk4/4ce9e1f2403bc1a13118ab2e2dda6d47-1-1-30.jpg)
 
 ## Requirement
@@ -11,12 +11,12 @@
 
 ---
 ## How To Use
-1. Create a new project in Visual Studio 2019 (as of this writing) and select *Empty Project*
-2. Select either [glow-and-flashbang] or [trigger-aim-me] from this repo.
-3. In the *Solution Explorer*, add those files by *right-clicking > Add > Add Existing Item*. Repeat untill all the files are added.
-4. Select *Project > Properties*.
-5. On the left pane, select *Configuration Properties > Advanced*, change *Character Set* from *Unicode* to *Multi-Byte*
-6. Build the solution and then run "Local Windows Debugger"
+1. Create a new project in Visual Studio 2019 (as of this writing) and select `Empty Project`
+2. Select either [glow-and-flashbang](glow-and-flashbang) or [trigger-aim-me](trigger-aim-me) from this repo.
+3. In the `Solution Explorer`, add those files by `right-clicking` > `Add` > `Add Existing Item`. Repeat untill all the files are added.
+4. Select `Project > Properties`.
+5. On the left pane, select `Configuration Properties` > `Advanced`, change `Character Set` from `Unicode` to `Multi-Byte`
+6. Build the solution and then run `Local Windows Debugger`
 
 ## Hotkeys
 ### [glow-and-flashbang](glow-and-flashbang)
