@@ -10,13 +10,16 @@
 * [hazedumper-master](hazedumper-master): Gets the latest offsets from every patch and updates of the game.
 
 ---
-## How To Use
+## Building the Script
 1. Create a new project in Visual Studio 2019 (as of this writing) and select `Empty Project`
 2. Select either [glow-and-flashbang](glow-and-flashbang) or [trigger-aim-me](trigger-aim-me) from this repo.
 3. In the `Solution Explorer`, add those files by `right-clicking` > `Add` > `Add Existing Item`. Repeat untill all the files are added.
 4. Select `Project > Properties`.
-5. On the left pane, select `Configuration Properties` > `Advanced`, change `Character Set` from `Unicode` to `Multi-Byte`
-6. Build the solution and then run `Local Windows Debugger`
+5. On the left pane, select `Configuration Properties` > `Advanced` > change `Character Set` from `Unicode` to `Multi-Byte`
+
+## Usage
+1. Run CS:GO
+2. In the previously built solution, run it by hitting ![image](https://i.ibb.co/mBhQQpw/Capture-501.png)
 
 ## Hotkeys
 ### [glow-and-flashbang](glow-and-flashbang)
